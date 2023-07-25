@@ -1,4 +1,4 @@
-### Hi there 👋
+⚡
 
 <!--
 **wana1i/wana1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
